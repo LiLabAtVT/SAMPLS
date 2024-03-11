@@ -24,3 +24,7 @@ Step 2: Finetune SAM using results collected from Step 1 and finetuned prompt en
 Step 3: Calculate the detection rate 
 
 Step 4: IOU scores calculation
+
+## Example of segmented images
+
+![image](https://github.com/LiLabAtVT/SAMPLS/assets/53419878/6a142393-7afd-46ed-9476-41977daf929c)

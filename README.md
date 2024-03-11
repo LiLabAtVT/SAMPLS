@@ -1,5 +1,7 @@
 # SAMPLS: A prompt engineering approach for Plant Science research
 
+![image](https://github.com/LiLabAtVT/SAMPLS/assets/53419878/89dd2217-8cfa-49d1-aeda-91bec6c4d3f7)
+
 ## Dependencies
 
 * PIL -                 9.4.0

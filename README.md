@@ -13,10 +13,14 @@
 * pandas -             1.5.3
 * session_info -       1.0.0
 * skimage -            0.19.3
+* torch -              2.1.0+cu121
+* scipy -              1.11.4
 * IPython -            7.34.0
 * jupyter_client -     6.1.12
 * jupyter_core -       5.7.1
 * notebook -           6.5.5
+* re
+* math
 
 ## Scripts
 

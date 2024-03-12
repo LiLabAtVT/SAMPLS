@@ -18,6 +18,13 @@
 * notebook -           6.5.5
 * re
 * math
+* patchify
+* transformers
+* tifffile
+* supervision
+* segment_anyhting
+* base64
+* imagecodecs
 
 ## Scripts
 

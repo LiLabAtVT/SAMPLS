@@ -36,7 +36,7 @@ Step 3: Calculate the detection rate
 
 Step 4: IOU scores calculation
 
-## Other requirements
+## Instructions
 
 Step 1 can save pickle files of detected masks of any input confocal image using Vanilla SAM (VSAM) and prompt engineering. These masks need to be saved in your local system. These masks and images should then be loaded in step 2 for finetuning SAM for improved prompt engineering performance. Save the results from Finetuned-SAM as a pickle file and use these saved pickle files to determine the detection rates, iou scores in steps 3 and 4.
 

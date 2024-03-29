@@ -31,6 +31,8 @@
 
 ## Scripts
 
+The following scripts are implemented in Google Colab in March 2024
+
 Step 1: Running Vanilla SAM on images + prompt engineering
 
 Step 2: Finetune SAM using results collected from Step 1 and finetuned prompt engineering
